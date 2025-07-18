@@ -1,6 +1,4 @@
 print('hi')
+hohoho = 'hehehe'
+print('hohoho')
 
-
-
-freshmen = 'my turn'
-print(freshmen)
